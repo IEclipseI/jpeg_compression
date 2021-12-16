@@ -1,0 +1,1 @@
+jpegenc.exe fruits.raw fruits.jpg  512 512 3 20
